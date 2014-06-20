@@ -32,11 +32,11 @@ Project prerequisites
  
 How to run this project
 -----------------------
-1. Source 'run_analysis.R' file
+######1. Source 'run_analysis.R' file
 ```
 > source('run_analysis.R')
 ```
-2. Run command:
+######2. Run command:
 ```
 > aggDS <- doit()
 Reading features.txt
